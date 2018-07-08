@@ -1,4 +1,4 @@
-# christmas_star
+# Christmas Star
 ![Christmas Star in Action](../master/media/christmas_star_in_action.jpg?raw=true "Christmas Star in Action")
 Christmas Star is a Christmas ornament to be hanged onto a Christmas tree. 
 
